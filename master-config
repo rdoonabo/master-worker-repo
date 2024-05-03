@@ -1,4 +1,10 @@
- chmod +i file.sh 
+
+
+https://v1-29.docs.kubernetes.io/blog/2023/08/15/pkgs-k8s-io-introduction/
+
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+
+chmod +i file.sh 
     5  chmod +X file.sh 
     6  sh file.sh 
     7  clear
